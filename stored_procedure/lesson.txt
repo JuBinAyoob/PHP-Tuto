@@ -1,0 +1,3 @@
+to show the procedure definition:- 		SHOW CREATE PROCEDURE Count_Users
+to show the procedure list:-			SHOW PROCEDURE STATUS LIKE '%users%'
+to show all procedure lise:-			SHOW PROCEDURE STATUS
